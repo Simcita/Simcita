@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Simamnkele and I am an aspiring Full-stack Engineer<br>🔭 I’m currently working on AI automation<br>🤝 I’m looking for help with finding better tools for studying/Learning new concepts<br>🌱 I’m currently learning Full Stack Engineering, Machine Learning and Parallel Computing<br>⚡ Fun fact I find the effect of Macro-Economics on the Financial Markets to be fascinating
+Hi, I am Simamnkele and I am an aspiring Full-stack Engineer<br>🔭 I’m currently working on AI automation<br>🤝 I’m looking for help with finding better tools for studying/Learning new concepts<br>🌱 I’m an aspiring Full Stack Engineering, Machine Learning Engineer and Data Scientist<br>⚡ Fun fact I find the effect of Macro-Economics on the Financial Markets to be fascinating
 
 
 ## 🌐 Socials:
